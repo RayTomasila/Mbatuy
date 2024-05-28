@@ -1,0 +1,20 @@
+:root {
+  --gold: rgb(253, 248, 208);
+  --gold-gelapan: #FFF5BD;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  font-family: K2D;
+  outline: none;
+}
+
+p, h1, h2 {
+  margin: 0;
+}
